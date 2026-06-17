@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Mycorrhizal Network",
+  "universe": "MYC · The Mycorrhizal Network",
+  "emergence": "electrical",
+  "moniker": "⟦The Mycorrhizal Network:MYC:b558f8⟧",
+  "carbon": "the-mycorrhizal-network.carbon.tiff (TIFF)",
+  "silicon": "the-mycorrhizal-network.silicon.png (PNG)",
+  "seal_sha256": "da06a200d568108a27739fb9434f7ff46d5ce82a7d9534602b24661c0af996e7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

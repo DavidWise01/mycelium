@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Mycelium",
+  "universe": "MYC · Mycelium",
+  "emergence": "",
+  "moniker": "⟦Mycelium:MYC:d87f0b⟧",
+  "carbon": "mycelium.carbon.tiff (TIFF)",
+  "silicon": "mycelium.silicon.png (PNG)",
+  "seal_sha256": "d100736ae105c6dc536f40211a72d36cf3c438f1be32061ebee70e35305731bf",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

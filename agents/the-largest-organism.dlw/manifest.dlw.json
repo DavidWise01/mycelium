@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Largest Organism",
+  "universe": "MYC · The Largest Organism",
+  "emergence": "ethereal",
+  "moniker": "⟦The Largest Organism:MYC:d8fa21⟧",
+  "carbon": "the-largest-organism.carbon.tiff (TIFF)",
+  "silicon": "the-largest-organism.silicon.png (PNG)",
+  "seal_sha256": "6a56034de0f4624bb77e2f2ce7e030164752abaa20e1d21036c5165d8f4b5c4d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Wood Wide Web",
+  "universe": "MYC · The Wood Wide Web",
+  "emergence": "ethereal",
+  "moniker": "⟦The Wood Wide Web:MYC:40187e⟧",
+  "carbon": "the-wood-wide-web.carbon.tiff (TIFF)",
+  "silicon": "the-wood-wide-web.silicon.png (PNG)",
+  "seal_sha256": "2fa0038af45f439cf99667f62d14da13064dbd3288145cc43a407f70ab5ff30d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

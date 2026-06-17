@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Decomposers",
+  "universe": "MYC · The Decomposers",
+  "emergence": "natural",
+  "moniker": "⟦The Decomposers:MYC:740012⟧",
+  "carbon": "the-decomposers.carbon.tiff (TIFF)",
+  "silicon": "the-decomposers.silicon.png (PNG)",
+  "seal_sha256": "579f42b0e0efa2aba28181aead42570ba01dc95e4ae52d7ac4194e36edfa24dd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
